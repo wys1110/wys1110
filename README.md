@@ -2,7 +2,29 @@
 
 생활에 쓰는 앱, AI 학습 자료, 직접 열어볼 수 있는 웹 데모를 모았습니다.
 
-**[앱 써보기](#앱-써보기)** · **[AI 배우기](#ai-배우기)** · **[웹 데모 보기](#웹-데모-보기)** · **[전체 저장소 찾기](#전체-저장소-찾기)**
+**[저장소 트리](#공개-저장소-트리)** · **[앱 써보기](#앱-써보기)** · **[AI 배우기](#ai-배우기)** · **[웹 데모 보기](#웹-데모-보기)** · **[전체 저장소 찾기](#전체-저장소-찾기)**
+
+## 공개 저장소 트리
+
+목적별로 찾아보는 안내 트리이며, 각 저장소는 독립적으로 관리됩니다.
+
+<pre>
+wys1110
+├── 앱
+│   ├── <a href="https://github.com/wys1110/family">family</a> — 가족 일정과 육아·성장 기록 웹앱
+│   └── <a href="https://github.com/wys1110/real-estate-strategy-assistant">real-estate-strategy-assistant</a> — 한국 주택 호가·실거래 비교 앱과 CLI
+├── 교육
+│   ├── <a href="https://github.com/wys1110/claude-code-part-training">claude-code-part-training</a> — Claude Code 실습 자료와 Pages 안내
+│   └── <a href="https://github.com/wys1110/ai-agent-training-materials">ai-agent-training-materials</a> — Claude Code·Codex·에이전트 교육 자료
+├── 데모
+│   ├── <a href="https://github.com/wys1110/public">public</a> — 공개 작업물·웹 데모 모음
+│   ├── <a href="https://github.com/wys1110/staff-wine-event">staff-wine-event</a> — 와인 라인업·선택 순서 추첨 도구
+│   ├── <a href="https://github.com/wys1110/demo-github-slides">demo-github-slides</a> — HTML 발표자료·PDF 공유 데모
+│   └── <a href="https://github.com/wys1110/solution-pe-work-demo-2026">solution-pe-work-demo-2026</a> — Codex 교육용 가상 업무 공유 데모
+└── 작업공간
+    ├── <a href="https://github.com/wys1110/wys1110">wys1110</a> — 공개 대문
+    └── <a href="https://github.com/wys1110/jayden-log-web">jayden-log-web</a> — 코드 미등록
+</pre>
 
 ## 앱 써보기
 
@@ -33,3 +55,5 @@
 **[앱](https://github.com/search?q=user%3Awys1110%20topic%3Aapps&type=repositories)** · **[자동화](https://github.com/search?q=user%3Awys1110%20topic%3Aautomation&type=repositories)** · **[스킬](https://github.com/search?q=user%3Awys1110%20topic%3Aagent-skills&type=repositories)** · **[교육](https://github.com/search?q=user%3Awys1110%20topic%3Atraining-materials&type=repositories)** · **[데모](https://github.com/search?q=user%3Awys1110%20topic%3Aweb-demos&type=repositories)** · **[작업공간](https://github.com/search?q=user%3Awys1110%20topic%3Apersonal-workspace&type=repositories)**
 
 분류를 누르면 해당 저장소 목록이 열립니다. 비공개 저장소는 접근 권한이 있는 계정으로 로그인했을 때 표시됩니다.
+
+[전체 저장소 트리 찾기 · 로그인 필요](https://github.com/search?q=user%3Awys1110%20topic%3Arepository-map&type=repositories)
